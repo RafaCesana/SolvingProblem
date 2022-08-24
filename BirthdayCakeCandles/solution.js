@@ -16,6 +16,6 @@ function birthdayCakeCandles()
     }
     R = n;
 
-    // Function Return (origginaly the arr is the function parameter and a new array is returned)
+    // Function Return
     document.getElementById('tag-p').innerHTML = R;
 }
